@@ -17,7 +17,7 @@ class MyComponent extends React.Component {
 
 - [] Render should not be a function
 - [] Render method is not required
-- []  The return should be any React element, null or false
+- [x]  The return should be any React element, null or false
 - []  Class should be replaced by className
 
 
@@ -34,7 +34,7 @@ class SayHi extends React.Component {
 
 - []  Both codes are equivalent from React's point of view
 - []  The most simple and concise way to define a component is the first one but classes have some additional features
-- [] This funetion is a valid React component because it accepts a single props object argument with data and returns a React
+- [x] This funetion is a valid React component because it accepts a single props object argument with data and returns a React
 - [] All of the above
 
 
@@ -103,21 +103,20 @@ The same component in React:
 - [] ReactDMerver.renderTotring
 - [] ReactDM.render
 - [] ReactDM.rendertaticnerver
-- [] ReactDMerver.renderTotaticMarkup
-- []  
+- [x] ReactDMerver.renderTotaticMarkup
 
 
 #### 10. Which function is invoked just before render during initial render?
 - []  componentWillUpdate()
 - []  componentBeforeccur()
 - []  componentWillReceiveMount()
-- []  componentWillMount()
+- [x]  componentWillMount()
 
 
 #### 11. PropTypes can be used for?
 - [] Validation
 - []  getPropsValue
-- []  Typechecking
+- [x]  Typechecking
 - []  Both (a) and (c) are correct
 
 
@@ -154,8 +153,7 @@ class MyComponent extends React.Component {
 export default MyYMP(MyComponent);
 
 - [] The MyMP is a higher order function that is used only to pass data to MyComponent
-- [] The function MyMP takes MyComponent, enhances it with newData and returns the enhanced component that will be rendered
-- [] on screen
+- [] The function MyMP takes MyComponent, enhances it with newData and returns the enhanced component that will be rendered on screen
 - [] MyComponent should extends React. PureComponent in order to the code to be correct
 - [] If we run the app, we will see 'Data from MP...'
 
