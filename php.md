@@ -126,7 +126,7 @@ O timestamp
 Answer:
 What does this line of code do?
 
-SSvariable = "yay";
+$$variable = "yay";
 CO Sets $var by reference
 
 CO Sets $$var value
