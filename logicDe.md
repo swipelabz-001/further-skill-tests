@@ -10,13 +10,11 @@ Box 1: "Das gold ist nicht in Box 2"
 Box 2: "Das gold ist in dieser box".
 Box 3: "Das gold ist nicht in dieser box".
 
-## Was ist die Wahrscheinlichkeit, dass bei 2 Würfel genau einmal 7 gewürfelt wird?
+## Wahrscheinlichkeit, dass bei 2 Würfel genau einmal 7 gewürfelt wird?
 
-## Während eines ganzen Tages, wie oft kreuzen sich der Stunden- und der Minutenzeiger?
+## Während eines ganzen Tages kreuzen sich wie oft der Stunden- und der Minutenzeiger?
 
-
-?There are 28 couples at a party. Each person shakes hands with every other person, except their own spouse
-When the party is over, Mr. Smith asks each attendant how many hands they shook and everyone tells him a different number. How many hands did Mr. Smith shake
-
-� 54
+## Es gibt 28 Paare auf einer Party
+Jede Person schüttelt Hände mit jeder anderen Person, aber nicht mit dem eigenen Partner
+Als die Pary vorbei ist fragt Herr Schmidt sich selbst wie oft er Hände geschüttelt hat. Wieviele?
 
