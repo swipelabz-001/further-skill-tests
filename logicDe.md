@@ -18,3 +18,8 @@ Box 3: "Das gold ist nicht in dieser box".
 Jede Person schüttelt Hände mit jeder anderen Person, aber nicht mit dem eigenen Partner
 Als die Pary vorbei ist fragt Herr Schmidt sich selbst wie oft er Hände geschüttelt hat. Wieviele?
 
+## Lukas hat blaue und rote Bälle.
+Jeden Tag gewinnt er 2 blaue Bälle und verliert 3 Rote.
+Nach 5 Tagen hat er die gleiche Anzahl von blauen und roten Bällen.
+Nach 9 Tagen hat er doppelt so viel Blaue wie Rote.
+Wieviele Rote hat er zu Beginn?

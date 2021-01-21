@@ -15,4 +15,5 @@ Every week I put here one new topic, starting with [React](react.md).
 
 &nbsp;
 
-[**More** Skill tests for Pluralsight](https://github.com/tik9/pluralsight-skill-tests)
+[Skill tests @](https://github.com/tik9/pluralsight-skill-tests) [Pluralsight](https://app.pluralsight.com)
+[Buy me a coffee](https://www.buymeacoffee.com/tik1)
